@@ -1,5 +1,6 @@
 # Hi there 👋
 
+## Hey There! 👋
 
 I'm **Carlos Sebastian Mendoza Avellan** - I'm a student of the Information Technology career. I work on a ton of random projects in my free time while learning new technologies.
 
@@ -24,6 +25,35 @@ Check out my [portfolio](tu-portfolio-aqui).
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) - Para estilos y diseño
 
 ^ These icons are some of my projects!
+
+### 🎯 About Me
+
+- 🎓 **Estudiante** de Tecnología de la Información
+- 💡 Apasionado por resolver problemas con código
+- 🚀 Siempre aprendiendo nuevas tecnologías
+- 🤝 Abierto a colaborar en proyectos
+- ⚡ Me encanta crear aplicaciones fullstack
+
+### 🛠️ Tools & Frameworks
+
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+- ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### 📈 Current Learning Path
+
+```
+Fundamentos ✅ → Fullstack Development 🔄 → Advanced Projects 🚀
+```
+
+### 💬 Let's Connect!
+
+- 📧 Email: tu-email@example.com
+- 💼 LinkedIn: [Mi LinkedIn](https://linkedin.com/in/tuusuario)
+- 🌐 Portfolio: [Ver mis proyectos](tu-portfolio-aqui)
+- 🐦 Twitter: [@tutwitter](https://twitter.com/tutwitter)
 
 ### 📊 GitHub Stats ⚡
 

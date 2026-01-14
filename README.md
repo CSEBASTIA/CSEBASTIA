@@ -21,8 +21,9 @@ Check out my [portfolio](tu-portfolio-aqui).
 ^ These icons are some of my projects!
 
 ### 📊 GitHub Stats ⚡
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CSEBASTIA&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSEBASTIA&theme=dark&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CSEBASTIA&theme=dark)](https://git.io/streak-stats)
 
 ---
 

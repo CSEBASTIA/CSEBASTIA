@@ -4,7 +4,7 @@
 
 I'm **Carlos Sebastian Mendoza Avellan** - I'm a student of the Information Technology career. I work on a ton of random projects in my free time while learning new technologies.
 
-Check out my [portfolio](tu-portfolio-aqui).
+Check out my [portfolio](https://CSEBASTIA.github.io).
 
 ### 💻 Technologies I'm Learning
 
@@ -58,6 +58,7 @@ Fundamentos ✅ → Fullstack Development 🔄 → Advanced Projects 🚀
 ### 📊 GitHub Stats ⚡
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CSEBASTIA&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSEBASTIA&theme=dark&layout=compact)
 
 ---
 

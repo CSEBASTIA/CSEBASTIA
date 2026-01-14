@@ -12,3 +12,4 @@ Check out my [portfolio](tu-link-aqui).
 ^ These icons are one of my projects!
 
 ▶ Github Stats ⚡
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario)

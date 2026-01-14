@@ -50,10 +50,10 @@ Fundamentos ✅ → Fullstack Development 🔄 → Advanced Projects 🚀
 
 ### 💬 Let's Connect!
 
-- 📧 Email: tu-email@example.com
-- 💼 LinkedIn: [Mi LinkedIn](https://linkedin.com/in/tuusuario)
+- 📧 Email: sedas7778@gmail.com
+- 💼 LinkedIn: [Mi LinkedIn](www.linkedin.com/in/carlos-sebastian-mendoza-avellan-483125318)
 - 🌐 Portfolio: [Ver mis proyectos](tu-portfolio-aqui)
-- 🐦 Twitter: [@tutwitter](https://twitter.com/tutwitter)
+- 🐦 Twitter:
 
 ### 📊 GitHub Stats ⚡
 

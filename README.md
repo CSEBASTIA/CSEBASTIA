@@ -1,63 +1,42 @@
-# Hi there 👋 
+# Carlos Sebastián Mendoza Avellán
 
-I'm **Carlos Sebastian Mendoza Avellan** - I'm a student of the Information Technology career. I work on a ton of random projects in my free time while learning new technologies.
+**Estudiante de Tecnologías de la Información | Desarrollador Full-Stack**
 
-Check out my [portfolio](https://CSEBASTIA.github.io).
+Construyo aplicaciones web y sistemas de gestión de principio a fin: modelo de datos, backend, interfaz y despliegue. Mi enfoque actual está en desarrollo full-stack con React y .NET, bases de datos relacionales, diseño de APIs y despliegue en la nube.
 
-### 💻 Technologies I'm Learning
+## Competencias técnicas
 
-**Languages I Know:**
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+- **Backend:** Node.js, C#/.NET, ASP.NET, Blazor Server, Python, Java, APIs REST, funciones serverless
+- **Frontend:** React, TypeScript, JavaScript, Vite, Tailwind CSS, HTML5, CSS3
+- **Bases de datos:** PostgreSQL, SQL Server, MySQL, Supabase, Entity Framework Core, modelado entidad-relación, migraciones y procedimientos almacenados
+- **Multiplataforma:** React Native con Expo, Tauri, arquitectura monorepo
+- **DevOps y despliegue:** Git, GitHub, Docker, Vercel, entornos locales de Supabase
+- **Seguridad y calidad:** OAuth 2.0, Row Level Security, consultas preparadas, documentación técnica, casos de uso y casos de prueba
 
-**Databases:**
-- ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=mysql&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+## Proyectos destacados
 
-**Currently Learning:**
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) - Para Frontend moderno
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) - Para Backend con JavaScript
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) - Para estilos y diseño
+- **[FinTrack](https://github.com/CSEBASTIA/fintrack)** – Aplicación web de finanzas personales orientada al contexto ecuatoriano y latinoamericano. React, Vite, Tailwind y Supabase, con CRUD completo, modo demo y entorno local en Docker.
+- **[Golden Ray I](https://github.com/CSEBASTIA/golden-ray)** – Sitio de turismo para una empresa de tours en barco en Isla Isabela. Desplegado en Vercel con funciones serverless, panel administrativo con Google OAuth 2.0, sistema de reseñas y galería.
+- **[Sistema de Ventas AdventureWorks](https://github.com/CSEBASTIA/proyecto-de-crub)** – Sistema full-stack de gestión de ventas construido con Blazor Server, Entity Framework Core y SQL Server.
+- **[Control de Gastos](https://github.com/CSEBASTIA/gastos-app)** – Monorepo multiplataforma para gestión de gastos personales: registro desde móvil con Expo, administración desde escritorio con Tauri y backend en Supabase.
+- **[SevenSandbox](https://github.com/CSEBASTIA/sevensandbox)** – Mod en C#/.NET para 7 Days to Die, con un panel de administración y sandbox integrado al juego.
+- **VeterinariaMel** – Aplicación web mobile-first para registro de pacientes veterinarios: diseño de interfaz, definición de alcance y documentación del proyecto.
 
-^ These icons are some of my projects!
+## Certificaciones y eventos
 
-### 🎯 About Me
+- **AWS Community Day Ecuador 2026** – AWS User Group Ecuador. Cuenca, septiembre de 2026. [Verificar](https://ec-central-1.console.awscommunity.ec/certificados/EAJAYUUTLJXF)
+- **ICLSET 2026** – International Conference on Life Sciences and Emerging Technologies, ULEAM / FACIVITEC. Manta, julio de 2026. 40 horas académicas.
 
-- 🎓 **Estudiante** de Tecnología de la Información
-- 💡 Apasionado por resolver problemas con código
-- 🚀 Siempre aprendiendo nuevas tecnologías
-- 🤝 Abierto a colaborar en proyectos
-- ⚡ Me encanta crear aplicaciones fullstack
+## Intereses profesionales
 
-### 🛠️ Tools & Frameworks
+Desarrollo de aplicaciones empresariales, diseño de APIs, bases de datos relacionales, calidad de software, automatización de procesos de negocio y productos orientados a datos.
 
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-- ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+## Contacto
 
-### 📈 Current Learning Path
+- Email: sedas7778@gmail.com
+- Portafolio: https://csebastia.github.io
+- LinkedIn: https://www.linkedin.com/in/carlos-sebastian-mendoza-avellan-483125318
+- Ubicación: Manta, Ecuador
+- Disponible para prácticas, proyectos freelance y oportunidades remotas.
 
-```
-Fundamentos ✅ → Fullstack Development 🔄 → Advanced Projects 🚀
-```
-
-### 💬 Let's Connect!
-
-- 📧 Email: sedas7778@gmail.com
-- 💼 LinkedIn: [Mi LinkedIn](www.linkedin.com/in/carlos-sebastian-mendoza-avellan-483125318)
-- 🌐 Portfolio: [Ver mis proyectos](tu-portfolio-aqui)
-- 🐦 Twitter:
-
-### 📊 GitHub Stats ⚡
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CSEBASTIA&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSEBASTIA&theme=dark&layout=compact)
-
----
-
-**Currently:** Learning | **Status:** Offline | **Coding:** Every day 💪
+> Los proyectos se presentan a alto nivel. Algunas implementaciones realizadas para clientes e instituciones no son públicas.

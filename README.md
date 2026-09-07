@@ -34,7 +34,6 @@ Desarrollo de aplicaciones empresariales, diseño de APIs, bases de datos relaci
 ## Contacto
 
 - Email: sedas7778@gmail.com
-- Portafolio: https://csebastia.github.io
 - LinkedIn: https://www.linkedin.com/in/carlos-sebastian-mendoza-avellan-483125318
 - Ubicación: Manta, Ecuador
 - Disponible para prácticas, proyectos freelance y oportunidades remotas.
